@@ -1,0 +1,9 @@
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\github\C#homework\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
