@@ -1,0 +1,7 @@
+E:\github\C#homework\C-homework\assignment3\assignment3\bin\Debug\assignment3.exe.config
+E:\github\C#homework\C-homework\assignment3\assignment3\bin\Debug\assignment3.exe
+E:\github\C#homework\C-homework\assignment3\assignment3\bin\Debug\assignment3.pdb
+E:\github\C#homework\C-homework\assignment3\assignment3\obj\Debug\assignment3.csproj.AssemblyReference.cache
+E:\github\C#homework\C-homework\assignment3\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+E:\github\C#homework\C-homework\assignment3\assignment3\obj\Debug\assignment3.exe
+E:\github\C#homework\C-homework\assignment3\assignment3\obj\Debug\assignment3.pdb
